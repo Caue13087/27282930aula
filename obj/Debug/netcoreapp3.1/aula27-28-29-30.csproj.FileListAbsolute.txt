@@ -1,0 +1,13 @@
+C:\Users\MrFroost\Desktop\C#\aula27-28-29-30\bin\Debug\netcoreapp3.1\aula27-28-29-30.exe
+C:\Users\MrFroost\Desktop\C#\aula27-28-29-30\bin\Debug\netcoreapp3.1\aula27-28-29-30.deps.json
+C:\Users\MrFroost\Desktop\C#\aula27-28-29-30\bin\Debug\netcoreapp3.1\aula27-28-29-30.runtimeconfig.json
+C:\Users\MrFroost\Desktop\C#\aula27-28-29-30\bin\Debug\netcoreapp3.1\aula27-28-29-30.runtimeconfig.dev.json
+C:\Users\MrFroost\Desktop\C#\aula27-28-29-30\bin\Debug\netcoreapp3.1\aula27-28-29-30.dll
+C:\Users\MrFroost\Desktop\C#\aula27-28-29-30\bin\Debug\netcoreapp3.1\aula27-28-29-30.pdb
+C:\Users\MrFroost\Desktop\C#\aula27-28-29-30\obj\Debug\netcoreapp3.1\aula27-28-29-30.csprojAssemblyReference.cache
+C:\Users\MrFroost\Desktop\C#\aula27-28-29-30\obj\Debug\netcoreapp3.1\aula27-28-29-30.AssemblyInfoInputs.cache
+C:\Users\MrFroost\Desktop\C#\aula27-28-29-30\obj\Debug\netcoreapp3.1\aula27-28-29-30.AssemblyInfo.cs
+C:\Users\MrFroost\Desktop\C#\aula27-28-29-30\obj\Debug\netcoreapp3.1\aula27-28-29-30.csproj.CoreCompileInputs.cache
+C:\Users\MrFroost\Desktop\C#\aula27-28-29-30\obj\Debug\netcoreapp3.1\aula27-28-29-30.dll
+C:\Users\MrFroost\Desktop\C#\aula27-28-29-30\obj\Debug\netcoreapp3.1\aula27-28-29-30.pdb
+C:\Users\MrFroost\Desktop\C#\aula27-28-29-30\obj\Debug\netcoreapp3.1\aula27-28-29-30.genruntimeconfig.cache
